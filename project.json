@@ -1,0 +1,48 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "ccpool", "gui"],
+
+    "jsList" : [
+        "src/main/resource.js",
+        "src/main/Game.js",
+        "src/main/StartScene.js",
+        "src/main/GameScene.js",
+        "src/main/Utils.js",
+        "src/main/LevelManager.js",
+        "src/main/Hole.js",
+        "src/main/ToolCollector.js",
+        "src/main/PauseLayer.js",
+        "src/main/ScoreLayer.js",
+        "src/main/RankLayer.js",
+        "src/main/NameSettingLayer.js",
+        "src/main/level/Level.js",
+        "src/prototype/Role.js",
+        "src/prototype/Enemy.js",
+        "src/prototype/Boss.js",
+        "src/main/role/enemy/FirstBoss.js",
+        "src/main/role/enemy/NormalAttacker.js",
+        "src/main/role/enemy/QuickAttacker.js",
+        "src/main/role/enemy/BigAttacker.js",
+        "src/main/role/enemy/SmallAttacker.js",
+        "src/main/role/enemy/BurstAttacker.js",
+        "src/main/role/enemy/ExplosionAttacker.js",
+        "src/prototype/Tool.js",
+        "src/main/role/tool/ExplosionTool.js",
+        "src/main/role/tool/ArrowTool.js",
+        "src/main/role/tool/BlackHoleTool.js",
+        "src/main/role/tool/FireTool.js",
+        "src/prototype/Effect.js",
+        "src/main/effect/ExplosionEffect.js",
+        "src/main/effect/BlackHoleEffect.js",
+        "src/main/effect/FireEffect.js"
+    ]
+}

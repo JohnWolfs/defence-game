@@ -1,0 +1,24 @@
+{
+  "name": "defence",
+  "version": "1.0.0",
+  "description": "a game.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "co": "cocos run -p android"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.4.0",
+    "babel-preset-es2015": "^6.3.13",
+    "browser-sync": "^2.11.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.3.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3"
+  }
+}

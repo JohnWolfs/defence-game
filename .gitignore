@@ -1,0 +1,15 @@
+﻿# 忽略nodemodules bowercomponents
+node_modules
+bower_components
+
+build
+publish
+
+#忽略引擎文件
+frameworks/cocos2d-x
+frameworks/runtime-src
+
+simulator
+.idea
+
+npm-debug.log
