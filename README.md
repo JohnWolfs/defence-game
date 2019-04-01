@@ -1,5 +1,16 @@
 # 怪物防御游戏
 
+## 安装gulp
+npm i gulp
+
+## 安装依赖
+npm i
+或
+yarn install
+
+## 运行
+gulp
+
 下载项目后拷贝引擎文件frameworks至根目录
 
 Cocos2d JSB 问题：
