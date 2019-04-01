@@ -11,6 +11,8 @@ yarn install
 ## 运行
 gulp
 
+
+## 常见问题
 下载项目后拷贝引擎文件frameworks至根目录
 
 Cocos2d JSB 问题：
